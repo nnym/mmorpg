@@ -1,2 +1,2 @@
-a tiny project that I used made to learn languages
+a tiny project that I made to learn languages
 
