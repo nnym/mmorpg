@@ -1,0 +1,7 @@
+.*
+!.gitignore
+
+cmake-build-debug
+build
+out
+

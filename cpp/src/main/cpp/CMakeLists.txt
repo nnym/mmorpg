@@ -1,0 +1,1 @@
+add_executable(${PROJECT_NAME} main.cpp world/World.cpp world/World.h entity/Entity.cpp entity/Entity.h logger/Logger.cpp logger/Logger.h logger/LevelLogger.cpp logger/LevelLogger.h)
